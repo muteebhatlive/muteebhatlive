@@ -2,15 +2,15 @@
 
 ###
 
-<h5 align="left">I'm a Django developer with 6 months of experience, currently on the lookout for exciting opportunities to grow and contribute to meaningful projects. My journey into web development started with a fascination for building robust and dynamic web applications, and since then, I've been diving deep into the Django ecosystem to hone my skills.</h5>
+<h5 align="center">I'm a Django developer with 6 months of experience, currently on the lookout for exciting opportunities to grow and contribute to meaningful projects. My journey into web development started with a fascination for building robust and dynamic web applications, and since then, I've been diving deep into the Django ecosystem to hone my skills.</h5>
 
 ###
 
-<h2 align="left">Skillset</h2>
+<h2 align="center">Skillset</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
@@ -38,7 +38,11 @@
 
 ###
 
-<div align="left">
+<h2 align="center">📫 How to Reach Me</h2>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/muteebhat/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -46,10 +50,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="left">📫 How to Reach Me</h2>
 
 ###
 
