@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Django developer with 6 months of experience, currently on the lookout for exciting opportunities to grow and contribute to meaningful projects. My journey into web development started with a fascination for building robust and dynamic web applications, and since then, I've been diving deep into the Django ecosystem to hone my skills.</p>
+<h5 align="left">I'm a Django developer with 6 months of experience, currently on the lookout for exciting opportunities to grow and contribute to meaningful projects. My journey into web development started with a fascination for building robust and dynamic web applications, and since then, I've been diving deep into the Django ecosystem to hone my skills.</h5>
 
 ###
 
@@ -42,12 +42,17 @@
   <a href="https://www.linkedin.com/in/muteebhat/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="x1knight" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="muteebhat7@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">📫 How to Reach Me</h2>
+
+###
+
+<h5 align="center">Feel free to reach out to me via email or connect with me on LinkedIn.</h5>
 
 ###
